@@ -1,0 +1,10 @@
+{
+  "description": "Experience live cockfighting events with real-time betting and interactive features on a premium platform designed for enthusiasts and bettors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

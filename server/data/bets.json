@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3f235b351bce0a1f94fba0b3",
+    "userId": "a6069ccc6e05ce04ff9b2263",
+    "fightId": "be2d5721a0ad76fbaa26e8f0",
+    "fightNumber": 1,
+    "eventName": "Prueba1",
+    "roosterId": "sample-1",
+    "roosterName": "Obsidiana",
+    "amount": 5000,
+    "multiplier": 2,
+    "potentialPayout": 10000,
+    "status": "lost",
+    "createdAt": "2026-10-19T08:30:07.847Z",
+    "paidOut": 0,
+    "settledAt": "2026-10-19T08:36:19.222Z"
+  },
+  {
+    "id": "c65937bfd51bda017169e042",
+    "userId": "a6069ccc6e05ce04ff9b2263",
+    "fightId": "1b445a32b20b24ea3ca1b1e1",
+    "fightNumber": 1,
+    "eventName": "prueba 2",
+    "roosterId": "ec512fb2514ad69e4e948535",
+    "roosterName": "conejo",
+    "amount": 20000,
+    "multiplier": 1.85,
+    "potentialPayout": 37000,
+    "status": "won",
+    "createdAt": "2026-10-19T08:39:29.481Z",
+    "paidOut": 37000,
+    "settledAt": "2026-10-19T08:39:45.197Z"
+  }
+]
